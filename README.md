@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HomamAltakrity
-- 👀 I’m interested in Programming Web, Android, Desktop Applications
+- 👀 I’m interested in AI, Programming Web, Android, Desktop Applications
 - 🌱 I’m currently learning React
 - 📫 How to reach me Facebook:https://www.facebook.com/homam.takriti36
 
