@@ -9,6 +9,8 @@ I’m always excited to collaborate on impactful projects, explore cutting-edge 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/homam-altakrity/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:h.altakrity@gmail.com)
+
 
 # 💻 Tech Stack:
 
